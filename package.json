@@ -1,0 +1,28 @@
+{
+  "name": "node-sample-t",
+  "version": "1.0.0",
+  "description": "Getting started with a NodeJS backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "testlol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikJagsarran/node-sample-project.git"
+  },
+  "author": "Nik Jagsarran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikJagsarran/node-sample-project/issues"
+  },
+  "homepage": "https://github.com/NikJagsarran/node-sample-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.19.3"
+  }
+}
