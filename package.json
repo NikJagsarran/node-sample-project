@@ -18,7 +18,7 @@
   "homepage": "https://github.com/NikJagsarran/node-sample-project#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.7.3"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
